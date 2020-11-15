@@ -4,7 +4,7 @@ title: National Lottery
 date: 2020-11-15T00:49:16.701Z
 description: "\n\n"
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/nationallottery.jpg
 tags:
   - n/a
 ---
